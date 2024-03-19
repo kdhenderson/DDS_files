@@ -1,6 +1,3 @@
-# DDS_Unit_01
-One  
-Two  
-Three  
-Four  
-Five  
+# DDS_files
+
+This repository contains files from a class Doing Data Science.
