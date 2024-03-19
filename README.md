@@ -1,3 +1,3 @@
 # DDS_files
 
-This repository contains files from a class Doing Data Science.
+This repository contains files generated during a class Doing Data Science.
